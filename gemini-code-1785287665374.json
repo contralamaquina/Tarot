@@ -1,0 +1,99 @@
+{
+  "arcanos_mayores": [
+    {
+      "id": "am_00",
+      "numero": 0,
+      "nombre": "El Loco (Le Mat)",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/1/13/Tarot_de_Marseille_Jean_Dodal_22_Le_Mat.jpg",
+      "mirada": "derecha_arriba",
+      "eje_optico": "Hacia el cielo / lo desconocido / el futuro trascendente",
+      "sintaxis_espacial": "Movimiento de izquierda a derecha. Transición, libertad, energía pura sin dirección fija.",
+      "simbologia": {
+        "vara_farduco": "Transporta la experiencia / memoria sin apego.",
+        "perro_animal": "Empuja o muerde el muslo; representa el instinto, el pasado o la ilusión del ego.",
+        "ropa": "Traje de bufón multicolor; espontaneidad y transgresión de normas."
+      },
+      "significados": {
+        "clave": "Impulso inicial, libertad, caos creativo, búsqueda espiritual, viaje.",
+        "psicologico": "El inconsciente puro, la sombra que impulsa al cambio liberador.",
+        "esoterico": "El Aleph, el origen antes de la manifestación de los elementos."
+      }
+    },
+    {
+      "id": "am_01",
+      "numero": 1,
+      "nombre": "El Mago (Le Bateleur)",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/d/de/Tarot_de_Marseille_Jean_Dodal_01_Le_Bateleur.jpg",
+      "mirada": "izquierda",
+      "eje_optico": "Hacia el pasado o el receptor; atiende la mesa y sus recursos.",
+      "sintaxis_espacial": "Inicio consciente de la serie numérica. Orientado al hacer físico.",
+      "simbologia": {
+        "sombrero": "Forma de lemniscata (8 acostado); potencial infinito de la mente.",
+        "mesa": "Mesa de 3 patas visible; apoyo en el plano terrenal.",
+        "herramientas": "Monedas (Oros), copa (Copas), daga (Espadas) y varita (Bastos)."
+      },
+      "significados": {
+        "clave": "Habilidad, comienzo, recursos disponibles, concentración, voluntad.",
+        "psicologico": "El Egotipo en inicio de individuación; capacidad de canalizar energía.",
+        "esoterico": "El principio creador en la materia."
+      }
+    },
+    {
+      "id": "am_02",
+      "numero": 2,
+      "nombre": "La Sacerdotisa (La Papesse)",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Tarot_de_Marseille_Jean_Dodal_02_La_Papesse.jpg",
+      "mirada": "derecha",
+      "eje_optico": "Mirada pasiva/receptiva hacia el Mago / el futuro interno.",
+      "sintaxis_espacial": "Gestación en reposo. Receptividad femenina y acumulación de saber.",
+      "simbologia": {
+        "libro": "Sostiene el libro de la sabiduría oculta sobre el regazo.",
+        "tiara": "Triple corona Papal; dominio sobre tres mundos.",
+        "velo": "Aislamiento sagrado y protección del secreto."
+      },
+      "significados": {
+        "clave": "Intuición, secreto, estudio, gestación, paciencia, memoria.",
+        "psicologico": "La Anima, el receptáculo del saber inconsciente.",
+        "esoterico": "La puerta del templo; misterios mayores."
+      }
+    },
+    {
+      "id": "am_03",
+      "numero": 3,
+      "nombre": "La Emperatriz (L'Impératrice)",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Tarot_de_Marseille_Jean_Dodal_03_L%27Imperatrise.jpg",
+      "mirada": "frente_derecha",
+      "eje_optico": "Mirada directa al observador o en diagonal ascendente.",
+      "sintaxis_espacial": "Eclosión de la gestación. Expresión, creatividad y abundancia viva.",
+      "simbologia": {
+        "escudo": "Águila imperial con ala desplegada; poder activo y nobleza.",
+        "cetro": "Rematado en globo y cruz; dominio creativo sobre la materia.",
+        "silla": "Trono con alas; pensamiento elevado en manifestación."
+      },
+      "significados": {
+        "clave": "Creatividad, abundancia, palabra, naturaleza, seducción, acción eclosionada.",
+        "psicologico": "Matriarcado creativo, fertilidad mental o emocional.",
+        "esoterico": "Venus, inteligencia santificante."
+      }
+    },
+    {
+      "id": "am_04",
+      "numero": 4,
+      "nombre": "El Emperador (L'Empereur)",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Tarot_de_Marseille_Jean_Dodal_04_L%27Emperer.jpg",
+      "mirada": "izquierda",
+      "eje_optico": "Mirada firme en perfil hacia La Emperatriz / el origen.",
+      "sintaxis_espacial": "Estabilidad, encuadre y leyes de la materia. Asentamiento territorial.",
+      "simbologia": {
+        "piernas_cruzadas": "Forman una figura de 4 o cruz; dominio físico sólido.",
+        "cetro_y_escudo": "El águila reposa incubando su poder terrenal.",
+        "casco_gorro": "Protección de la voluntad y el mandato claro."
+      },
+      "significados": {
+        "clave": "Estructura, autoridad, orden, poder terrenal, estabilidad, ley.",
+        "psicologico": "El Animus organizador, figura paterna y límites sanos.",
+        "esoterico": "Cubo de la manifestación, realización material."
+      }
+    }
+  ]
+}

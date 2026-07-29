@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mesa del Cartomante — Cyber HUD</title>
+  <link rel="stylesheet" href="styles.css">
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;600;800&family=Rajdhani:wght@400;500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div class="app-container">
+    
+    <!-- BARRA LATERAL: Selector de Cartas -->
+    <aside class="sidebar-hud">
+      <div class="sidebar-header">
+        <h2>TAROT HUD</h2>
+        <span class="status-indicator">ONLINE</span>
+      </div>
+      
+      <div class="search-box">
+        <input type="text" id="card-search" placeholder="Buscar arcano / elemento...">
+      </div>
+
+      <div class="card-selector-list" id="card-selector-list">
+        <!-- Se llena dinámicamente desde JS -->
+      </div>
+    </aside>
+
+    <!-- ÁREA CENTRAL: Tapete Interactivo / Grid Space -->
+    <main class="board-container" id="board-container">
+      <div class="grid-overlay"></div>
+      
+      <!-- Barra de Herramientas Flotante -->
+      <header class="hud-toolbar">
+        <button id="btn-toggle-vectors" class="hud-btn active">VECTORES [ON]</button>
+        <button id="btn-clear-board" class="hud-btn danger">LIMPIAR MESA</button>
+      </header>
+
+      <!-- Lienzo donde se mueven las cartas -->
+      <div id="board-canvas" class="board-canvas"></div>
+    </main>
+
+    <!-- PANEL DERECHO: Inspector Óptico y Simbólico -->
+    <aside class="inspector-hud" id="hud-inspector">
+      <div class="hud-placeholder">
+        <p>// SELECCIONA UNA CARTA EN LA MESA PARA INSPECCIONAR SUS VECTORES Y SIMBOLOGÍA</p>
+      </div>
+    </aside>
+
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

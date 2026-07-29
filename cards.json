@@ -1,0 +1,440 @@
+{
+  "arcanos_mayores": [
+    {
+      "id": "am_00",
+      "numero": 0,
+      "nombre": "El Loco (Le Mat)",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/1/13/Tarot_de_Marseille_Jean_Dodal_22_Le_Mat.jpg",
+      "mirada": "derecha_arriba",
+      "eje_optico": "Hacia el cielo / lo desconocido / el futuro trascendente",
+      "sintaxis_espacial": "Movimiento de izquierda a derecha. Transición, libertad, energía pura sin dirección fija.",
+      "simbologia": {
+        "vara_farduco": "Transporta la experiencia / memoria sin apego.",
+        "perro_animal": "Empuja o muerde el muslo; representa el instinto, el pasado o la ilusión del ego.",
+        "ropa": "Traje de bufón multicolor; espontaneidad y transgresión de normas."
+      },
+      "significados": {
+        "clave": "Impulso inicial, libertad, caos creativo, búsqueda espiritual, viaje.",
+        "psicologico": "El inconsciente puro, la sombra que impulsa al cambio liberador.",
+        "esoterico": "El Aleph, el origen antes de la manifestación de los elementos."
+      }
+    },
+    {
+      "id": "am_01",
+      "numero": 1,
+      "nombre": "El Mago (Le Bateleur)",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/d/de/Tarot_de_Marseille_Jean_Dodal_01_Le_Bateleur.jpg",
+      "mirada": "izquierda",
+      "eje_optico": "Hacia el pasado o el receptor; atiende la mesa y sus recursos.",
+      "sintaxis_espacial": "Inicio consciente de la serie numérica. Orientado al hacer físico.",
+      "simbologia": {
+        "sombrero": "Forma de lemniscata (8 acostado); potencial infinito de la mente.",
+        "mesa": "Mesa de 3 patas visible; apoyo en el plano terrenal.",
+        "herramientas": "Monedas (Oros), copa (Copas), daga (Espadas) y varita (Bastos)."
+      },
+      "significados": {
+        "clave": "Habilidad, comienzo, recursos disponibles, concentración, voluntad.",
+        "psicologico": "El Egotipo en inicio de individuación; capacidad de canalizar energía.",
+        "esoterico": "El principio creador en la materia."
+      }
+    },
+    {
+      "id": "am_02",
+      "numero": 2,
+      "nombre": "La Sacerdotisa (La Papesse)",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Tarot_de_Marseille_Jean_Dodal_02_La_Papesse.jpg",
+      "mirada": "derecha",
+      "eje_optico": "Mirada pasiva/receptiva hacia el Mago / el futuro interno.",
+      "sintaxis_espacial": "Gestación en reposo. Receptividad femenina y acumulación de saber.",
+      "simbologia": {
+        "libro": "Sostiene el libro de la sabiduría oculta sobre el regazo.",
+        "tiara": "Triple corona Papal; dominio sobre tres mundos.",
+        "velo": "Aislamiento sagrado y protección del secreto."
+      },
+      "significados": {
+        "clave": "Intuición, secreto, estudio, gestación, paciencia, memoria.",
+        "psicologico": "La Anima, el receptáculo del saber inconsciente.",
+        "esoterico": "La puerta del templo; misterios mayores."
+      }
+    },
+    {
+      "id": "am_03",
+      "numero": 3,
+      "nombre": "La Emperatriz (L'Impératrice)",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Tarot_de_Marseille_Jean_Dodal_03_L%27Imperatrise.jpg",
+      "mirada": "frente_derecha",
+      "eje_optico": "Mirada directa al observador o en diagonal ascendente.",
+      "sintaxis_espacial": "Eclosión de la gestación. Expresión, creatividad y abundancia viva.",
+      "simbologia": {
+        "escudo": "Águila imperial con ala desplegada; poder activo y nobleza.",
+        "cetro": "Rematado en globo y cruz; dominio creativo sobre la materia.",
+        "silla": "Trono con alas; pensamiento elevado en manifestación."
+      },
+      "significados": {
+        "clave": "Creatividad, abundancia, palabra, naturaleza, seducción, acción eclosionada.",
+        "psicologico": "Matriarcado creativo, fertilidad mental o emocional.",
+        "esoterico": "Venus, inteligencia santificante."
+      }
+    },
+    {
+      "id": "am_04",
+      "numero": 4,
+      "nombre": "El Emperador (L'Empereur)",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Tarot_de_Marseille_Jean_Dodal_04_L%27Emperer.jpg",
+      "mirada": "izquierda",
+      "eje_optico": "Mirada firme en perfil hacia La Emperatriz / el origen.",
+      "sintaxis_espacial": "Estabilidad, encuadre y leyes de la materia. Asentamiento territorial.",
+      "simbologia": {
+        "piernas_cruzadas": "Forman una figura de 4 o cruz; dominio físico sólido.",
+        "cetro_y_escudo": "El águila reposa incubando su poder terrenal.",
+        "casco_gorro": "Protección de la voluntad y el mandato claro."
+      },
+      "significados": {
+        "clave": "Estructura, autoridad, orden, poder terrenal, estabilidad, ley.",
+        "psicologico": "El Animus organizador, figura paterna y límites sanos.",
+        "esoterico": "Cubo de la manifestación, realización material."
+      }
+    },
+    {
+      "id": "am_05",
+      "numero": 5,
+      "nombre": "El Papa (Le Pape)",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/2/23/Tarot_de_Marseille_Jean_Dodal_05_Le_Pape.jpg",
+      "mirada": "frente_derecha",
+      "eje_optico": "Mirada de bendición hacia los acólitos y el espectador.",
+      "sintaxis_espacial": "Puente entre lo terrenal y lo divino. Enseñanza y mediación.",
+      "simbologia": {
+        "cruz_triple": "Báculo de tres travesaños; enseñanza en los 3 planos.",
+        "guante_azul": "Cruz grabada en el dorso; bendición pura y canalización.",
+        "acolitos": "Dos seguidores a sus pies que escuchan la doctrina."
+      },
+      "significados": {
+        "clave": "Enseñanza, guía espiritual, comunicación, mediación, tradición.",
+        "psicologico": "El Gran Comunicador o arquetipo del maestro interior.",
+        "esoterico": "El Hierofante, revelador de la verdad cósmica."
+      }
+    },
+    {
+      "id": "am_06",
+      "numero": 6,
+      "nombre": "El Enamorado (L'Amoureux)",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Tarot_de_Marseille_Jean_Dodal_06_L%27Amoureux.jpg",
+      "mirada": "frente",
+      "eje_optico": "El joven mira dividido o hacia la figura femenina de la izquierda.",
+      "sintaxis_espacial": "Cruce de caminos, conflicto de elecciones, vínculos afectivos.",
+      "simbologia": {
+        "cupido": "Ángel solar sobre la escena listo para disparar la flecha.",
+        "dos_mujeres": "Madre/Tradición a la izquierda vs. Joven/Deseo a la derecha.",
+        "manos": "Contactos corporales que denotan unión o indecisión."
+      },
+      "significados": {
+        "clave": "Elección, amor, unión, dilema ético, valor emocional.",
+        "psicologico": "Unificación de opuestos o conflicto entre el deber y el deseo.",
+        "esoterico": "El camino de la prueba; la prueba del corazón."
+      }
+    },
+    {
+      "id": "am_07",
+      "numero": 7,
+      "nombre": "El Carro (Le Chariot)",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Tarot_de_Marseille_Jean_Dodal_07_Le_Chariot.jpg",
+      "mirada": "frente",
+      "eje_optico": "Mirada directa al frente, decidida y soberana.",
+      "sintaxis_espacial": "Triunfo en el mundo. Movimiento dirigido de la materia.",
+      "simbologia": {
+        "dos_caballos": "Rojo y azul mirando en direcciones opuestas pero impulsando el carro.",
+        "hombreras": "Lunas crecientes en los hombros (máscaras de la percepción).",
+        "dintel": "Cuatro columnas sostienen el dosel estrellado."
+      },
+      "significados": {
+        "clave": "Éxito, victoria, dirección firme, maestría sobre las emociones.",
+        "psicologico": "Integración victoriosa de las pulsiones del Ego.",
+        "esoterico": "El vehículo del alma (Merkabah)."
+      }
+    },
+    {
+      "id": "am_08",
+      "numero": 8,
+      "nombre": "La Justicia (La Justice)",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Tarot_de_Marseille_Jean_Dodal_08_La_Justice.jpg",
+      "mirada": "frente",
+      "eje_optico": "Mirada directa, imparcial y penetrante.",
+      "sintaxis_espacial": "Eje central de equilibrio y evaluación del camino recorrido.",
+      "simbologia": {
+        "espada": "Apunta hacia arriba; rigor, claridad mental y corte radical.",
+        "balanza": "Equilibrio exacto entre el dar y recibir o la culpa y verdad.",
+        "corona": "Punto central de juicio y ley universal."
+      },
+      "significados": {
+        "clave": "Equilibrio, rigor, verdad, causa y efecto, justicia terrenal e interna.",
+        "psicologico": "El Superyó implacable, discernimiento objetivo.",
+        "esoterico": "La balanza kármica; la Gran Ley."
+      }
+    },
+    {
+      "id": "am_09",
+      "numero": 9,
+      "nombre": "El Ermitaño (L'Ermite)",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/0/07/Tarot_de_Marseille_Jean_Dodal_09_L%27Ermite.jpg",
+      "mirada": "izquierda",
+      "eje_optico": "Hacia el pasado (revisando el camino andado con la linterna).",
+      "sintaxis_espacial": "Retiro interior, introspección, marcha lenta y sabia.",
+      "simbologia": {
+        "farol": "Luz azul/amarilla cubierta parcialmente por su manto rojo.",
+        "basto": "Bordón de apoyo en la tierra para avanzar con prudencia.",
+        "túnica": "Aislamiento consciente para alcanzar la sabiduría."
+      },
+      "significados": {
+        "clave": "Sabiduría, lentitud, introspección, soledad, prudencia, guía interior.",
+        "psicologico": "El arquetipo del Senex o anciano sabio interior.",
+        "esoterico": "La luz oculta del conocimiento iniciado."
+      }
+    },
+    {
+      "id": "am_10",
+      "numero": 10,
+      "nombre": "La Rueda de la Fortuna (La Roue de Fortuna)",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Tarot_de_Marseille_Jean_Dodal_10_La_Roue_de_Fortuna.jpg",
+      "mirada": "varias",
+      "eje_optico": "El ser coronado mira al frente; las figuras suben y bajan.",
+      "sintaxis_espacial": "Cierre del primer ciclo decenal. Cambio inevitable.",
+      "simbologia": {
+        "tres_animales": "Mono bajando, ser que sube y esfinge coronada con espada.",
+        "manivela": "Inmovilidad en el centro del eje giratorio.",
+        "suelo": "Océano o tierra inestable bajo la estructura."
+      },
+      "significados": {
+        "clave": "Ciclos, destino, cambio de suerte, movimiento, inicio o fin de etapa.",
+        "psicologico": "Las fluctuaciones del ánimo y la aceptación del cambio.",
+        "esoterico": "El Samsara; el torbellino de la manifestación."
+      }
+    },
+    {
+      "id": "am_11",
+      "numero": 11,
+      "nombre": "La Fuerza (La Force)",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/3/36/Tarot_de_Marseille_Jean_Dodal_11_La_Force.jpg",
+      "mirada": "izquierda",
+      "eje_optico": "Mira hacia la cabeza del león mientras la domina suavemente.",
+      "sintaxis_espacial": "Inicio de la segunda serie. Dominio de lo espiritual sobre lo animal.",
+      "simbologia": {
+        "sombrero": "Forma similar a la lemniscata del Mago.",
+        "fauce_leon": "Manos apoyadas en las fauces sin violencia visible.",
+        "vestido": "Combinación de rojo, azul y verde."
+      },
+      "significados": {
+        "clave": "Dominio de las pulsiones, fuerza suave, paciencia, coraje, inteligencia instintiva.",
+        "psicologico": "Integración consciente del EGO con el ID o animal interior.",
+        "esoterico": "La energía kundalini purificada."
+      }
+    },
+    {
+      "id": "am_12",
+      "numero": 12,
+      "nombre": "El Colgado (Le Pendu)",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Tarot_de_Marseille_Jean_Dodal_12_Le_Pendu.jpg",
+      "mirada": "frente_abajo",
+      "eje_optico": "Mirada invertida, contemplación del mundo desde otro ángulo.",
+      "sintaxis_espacial": "Detención total, gestación invertida, sacrificio voluntario.",
+      "simbologia": {
+        "atado_un_pie": "Suspendido de un travesaño entre dos árboles podados.",
+        "manos_atrás": "Forman un triángulo apuntando hacia abajo con la cabeza.",
+        "botones": "Estructura solar en el pecho en estado de espera."
+      },
+      "significados": {
+        "clave": "Pausa, cambio de perspectiva, renuncia, meditación, no-acción.",
+        "psicologico": "Suspensión de las exigencias del ego para profundizar.",
+        "esoterico": "El mito del Dios sacrificado para la regeneración."
+      }
+    },
+    {
+      "id": "am_13",
+      "numero": 13,
+      "nombre": "La Muerte / Arcano XIII (Sans Nom)",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Tarot_de_Marseille_Jean_Dodal_13_La_Morte.jpg",
+      "mirada": "derecha",
+      "eje_optico": "Avanza cortando hacia el futuro y la transformación.",
+      "sintaxis_espacial": "Limpieza profunda de lo caduco para permitir lo nuevo.",
+      "simbologia": {
+        "esqueleto_rosado": "Estructura viva y no cadavérica; energía de limpieza.",
+        "guadaña": "Corta las cabezas coronadas y hierbas del suelo.",
+        "cabezas": "Una masculina y otra femenina renaciendo desde la tierra."
+      },
+      "significados": {
+        "clave": "Transformación radical, final necesario, purificación, desapego.",
+        "psicologico": "Muerte simbólica de patrones antiguos del Yo.",
+        "esoterico": "Transmutación alquímica y transmigración."
+      }
+    },
+    {
+      "id": "am_14",
+      "numero": 14,
+      "nombre": "La Templanza (Tempérance)",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Tarot_de_Marseille_Jean_Dodal_14_Temperance.jpg",
+      "mirada": "izquierda",
+      "eje_optico": "Atenta al flujo de los jarrones que sostiene.",
+      "sintaxis_espacial": "Armonización y circulación entre dos extremos.",
+      "simbologia": {
+        "dos_vasos": "Uno rojo y uno azul intercambiando un fluido sin caer al suelo.",
+        "alas": "Naturaleza angélica / espiritual del equilibrio.",
+        "flor_frente": "Redención y energía concentrada en la mente."
+      },
+      "significados": {
+        "clave": "Equilibrio, moderación, sanación, fluidez, comunicación entre opuestos.",
+        "psicologico": "Autorregulación emocional y paz interior.",
+        "esoterico": "La mezcla de las aguas esenciales (Alquimia)."
+      }
+    },
+    {
+      "id": "am_15",
+      "numero": 15,
+      "nombre": "El Diablo (Le Diable)",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Tarot_de_Marseille_Jean_Dodal_15_Le_Diable.jpg",
+      "mirada": "frente",
+      "eje_optico": "Mirada directa, hipnótica y desafiante.",
+      "sintaxis_espacial": "Atadura a la materia, creatividad salvaje, inconsciente profundo.",
+      "simbologia": {
+        "dos_demonios": "Hombre y mujer atados por el cuello al pedestal.",
+        "antorcha": "Fuego oculto en la mano izquierda.",
+        "alas_de_murcielago": "Dominio de las sombras y del mundo subterráneo."
+      },
+      "significados": {
+        "clave": "Deseo, atadura material, pasión, sombras, creatividad desbocada, dinero.",
+        "psicologico": "Integración de la Sombra y los complejos reprimidos.",
+        "esoterico": "El fuego secreto y la prueba del Guardián del Umbral."
+      }
+    },
+    {
+      "id": "am_16",
+      "numero": 16,
+      "nombre": "La Torre / La Casa de Dios (La Maison Dieu)",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/d/df/Tarot_de_Marseille_Jean_Dodal_16_La_Maison_Diev.jpg",
+      "mirada": "abajo",
+      "eje_optico": "Las figuras caen mirando hacia la tierra.",
+      "sintaxis_espacial": "Ruptura de estructuras rígidas, liberación repentina.",
+      "simbologia": {
+        "rayo_fuego": "Impacta la almena de la torre abriéndola.",
+        "dos_personas": "Caen alegres o sorprendidas hacia el suelo fértil.",
+        "esferas_colores": "Maná o energía divina dispersada en la atmósfera."
+      },
+      "significados": {
+        "clave": "Liberación, colapso de falsas estructuras, iluminación, revelación.",
+        "psicologico": "Destrucción de las defensas neuróticas o del orgullo.",
+        "esoterico": "El rayo de la iniciación destruyendo el templo profano."
+      }
+    },
+    {
+      "id": "am_17",
+      "numero": 17,
+      "nombre": "La Estrella (L'Étoile)",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/2/23/Tarot_de_Marseille_Jean_Dodal_17_L%27Etoille.jpg",
+      "mirada": "derecha_abajo",
+      "eje_optico": "Mira hacia el río o el agua que derrama generosamente.",
+      "sintaxis_espacial": "Entrega pura a la tierra y al cosmos. Desnudez y fe.",
+      "simbologia": {
+        "dos_cántaros": "Vierten agua de vida en la tierra y el río.",
+        "estrella_8_puntas": "Centro cósmico flanqueado por 7 estrellas menores.",
+        "pájaro_en_árbol": "El alma o mensaje de esperanza en la naturaleza."
+      },
+      "significados": {
+        "clave": "Esperanza, generosidad, lugar en el mundo, armonía, belleza, fe.",
+        "psicologico": "Conexión fluida con la propia esencia sin máscaras.",
+        "esoterico": "La fuente inagotable de la vida y el destino estelar."
+      }
+    },
+    {
+      "id": "am_18",
+      "numero": 18,
+      "nombre": "La Luna (La Lune)",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Tarot_de_Marseille_Jean_Dodal_18_La_Lune.jpg",
+      "mirada": "frente_abajo",
+      "eje_optico": "La cara lunar mira de perfil/frente hacia la tierra.",
+      "sintaxis_espacial": "Receptividad nocturna, intuición profunda, peligro de ilusión.",
+      "simbologia": {
+        "cangrejo": "Emerge de las profundidades del lago azul.",
+        "dos_perros_lobos": "Aúllan a la luna alimentándose de las gotas de energía.",
+        "dos_torres": "Límites entre el mundo conocido y lo desconocido."
+      },
+      "significados": {
+        "clave": "Inconsciente, imaginación, ilusión, intuición, misterio, poesía, madre.",
+        "psicologico": "Mundos de los sueños y estados liminales de la psique.",
+        "esoterico": "El mundo astral y la prueba de la visión nocturna."
+      }
+    },
+    {
+      "id": "am_19",
+      "numero": 19,
+      "nombre": "El Sol (Le Soleil)",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/3/30/Tarot_de_Marseille_Jean_Dodal_19_Le_Soleil.jpg",
+      "mirada": "frente",
+      "eje_optico": "El Sol mira radiantemente desde lo alto a los dos niños.",
+      "sintaxis_espacial": "Conciencia plena, claridad total, fraternidad y alegría.",
+      "simbologia": {
+        "dos_niños": "Se abrazan sobre la tierra fértil protegidos por el muro.",
+        "rayos_solares": "Alternan rectos (luz) y ondulados (calor/vida).",
+        "muro": "Límite del recinto sagrado y seguro."
+      },
+      "significados": {
+        "clave": "Éxito, claridad, amor fraterno, energía vital, conciencia, alegría.",
+        "psicologico": "Realización del Self o Sí-mismo en plena luz.",
+        "esoterico": "La luz central de la verdad no velada."
+      }
+    },
+    {
+      "id": "am_20",
+      "numero": 20,
+      "nombre": "El Juicio (Le Jugement)",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Tarot_de_Marseille_Jean_Dodal_20_Le_Iugement.jpg",
+      "mirada": "arriba",
+      "eje_optico": "Las tres figuras miran hacia el Ángel que toca la trompeta.",
+      "sintaxis_espacial": "Despertar, llamado espiritual, renacimiento a un nuevo plano.",
+      "simbologia": {
+        "angel_arcangel": "Surge de las nubes sosteniendo la trompeta con estandarte.",
+        "tres_figuras": "Padre, madre e hijo resucitando de la tumba.",
+        "tumba_de_piedra": "Apertura de la prisión material."
+      },
+      "significados": {
+        "clave": "Despertar, llamada, vocación, renacimiento, integración familiar, respuesta.",
+        "psicologico": "Integración de las etapas vividas hacia una nueva conciencia.",
+        "esoterico": "La resurrección de los muertos al conocimiento."
+      }
+    },
+    {
+      "id": "am_21",
+      "numero": 21,
+      "nombre": "El Mundo (Le Monde)",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Tarot_de_Marseille_Jean_Dodal_21_Le_Monde.jpg",
+      "mirada": "frente_izquierda",
+      "eje_optico": "La figura central danza mirando levemente hacia la izquierda.",
+      "sintaxis_espacial": "Totalidad, logro supremo, realización completa del viaje.",
+      "simbologia": {
+        "guirnalda_oval": "Símbolo del huevo cósmico y la victoria final.",
+        "cuatro_tetramorfos": "Ángel, Águila, León y Toro en las cuatro esquinas.",
+        "varita_y_frasco": "Poder sobre la energía y la materia."
+      },
+      "significados": {
+        "clave": "Realización total, plenitud, éxito absoluto, viaje completado, integración.",
+        "psicologico": "El Self completamente realizado y alineado con el entorno.",
+        "esoterico": "La Gran Obra terminada; el centro del universo."
+      }
+    }
+  ],
+  "arcanos_menores": {
+    "bastos": {
+      "elemento": "Fuego / Trabajo / Energía sexual y creativa",
+      "cartas": []
+    },
+    "copas": {
+      "elemento": "Agua / Amor / Emociones y relaciones",
+      "cartas": []
+    },
+    "espadas": {
+      "elemento": "Aire / Mente / Pensamiento y conflicto",
+      "cartas": []
+    },
+    "oros": {
+      "elemento": "Tierra / Materia / Dinero y cuerpo",
+      "cartas": []
+    }
+  }
+}
